@@ -11,7 +11,7 @@ export const botConfig = {
     activities: [
       {
         name: "brawlsearch.com | /help",
-        type: 0, // "Playing"
+        type: 3, // "Playing"
       },
     ],
   },
